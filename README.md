@@ -21,8 +21,9 @@ You can get the newest version at http://www.phpmyadmin.net/.
 
 More Information
 ----------------
-
-Please see the documentation in the doc folder.
+After installing XAMPP or WAMP, create a database, name it "easy"
+Hit Import and select the file easy.sql into your database. This will create the required database.
+Test using http://localhost/easy/login-form.html
 
 Support
 -------
